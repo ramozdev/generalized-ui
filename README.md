@@ -1,1 +1,1 @@
-# generalized-ui-2
+# generalized-ui
